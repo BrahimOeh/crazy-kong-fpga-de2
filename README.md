@@ -49,7 +49,7 @@ It’s based on an original VHDL core (Z80 + SRAM-based ROMs), with the followin
 ---
 # → DEMO :
 
-![Video](docs/Brahim_Kong4K.mp4)
+[▶️ Download / Watch the 4K Demo Video](https://drive.google.com/file/d/1SXjg1Pwp6tXl-Uz_8iuuFZM3FYupKqPB/view?usp=sharing)
 
 Implementation Demo video with VGA Graphics, Speakers, And PS2 Keyboard; And a Professional Gameplay of the game by the man the myth the legend himself (me)
 
