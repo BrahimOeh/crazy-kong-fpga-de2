@@ -1,0 +1,301 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -12.349
+TNS   : -3428.105
+
+Type  : Slow Model Setup 'ckong:ckong|clock_12mhz'
+Slack : -8.215
+TNS   : -53306.177
+
+Type  : Slow Model Setup 'clock_18'
+Slack : -6.760
+TNS   : -111.559
+
+Type  : Slow Model Setup 'ckong:ckong|ckong_sound:ckong_sound|frequency_tick'
+Slack : -5.814
+TNS   : -69.768
+
+Type  : Slow Model Setup 'pll36|altpll_component|pll|clk[0]'
+Slack : -5.365
+TNS   : -100.486
+
+Type  : Slow Model Setup 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -4.935
+TNS   : -781.048
+
+Type  : Slow Model Setup 'wm_8731_dac:wm8731_dac|I2C_Clk'
+Slack : -2.248
+TNS   : -19.518
+
+Type  : Slow Model Setup 'ckong:ckong|ckong_sound:ckong_sound|hdiv[1]'
+Slack : -1.500
+TNS   : -12.689
+
+Type  : Slow Model Setup 'ckong:ckong|ckong_sound:ckong_sound|YM2149:ym2149|env_reset'
+Slack : -0.855
+TNS   : -1.412
+
+Type  : Slow Model Setup 'ckong:ckong|ps2_keyboard:kdb|debounce:debounce_ps2_clk|result'
+Slack : -0.090
+TNS   : -0.215
+
+Type  : Slow Model Hold 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -2.462
+TNS   : -13.176
+
+Type  : Slow Model Hold 'clock_18'
+Slack : -2.064
+TNS   : -2.064
+
+Type  : Slow Model Hold 'ckong:ckong|ps2_keyboard:kdb|debounce:debounce_ps2_clk|result'
+Slack : -1.185
+TNS   : -1.185
+
+Type  : Slow Model Hold 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -1.169
+TNS   : -5.919
+
+Type  : Slow Model Hold 'pll36|altpll_component|pll|clk[0]'
+Slack : -0.163
+TNS   : -0.314
+
+Type  : Slow Model Hold 'ckong:ckong|clock_12mhz'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'wm_8731_dac:wm8731_dac|I2C_Clk'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'ckong:ckong|ckong_sound:ckong_sound|hdiv[1]'
+Slack : 0.669
+TNS   : 0.000
+
+Type  : Slow Model Hold 'ckong:ckong|ckong_sound:ckong_sound|YM2149:ym2149|env_reset'
+Slack : 0.695
+TNS   : 0.000
+
+Type  : Slow Model Hold 'ckong:ckong|ckong_sound:ckong_sound|frequency_tick'
+Slack : 0.711
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -1.580
+TNS   : -282.820
+
+Type  : Slow Model Recovery 'ckong:ckong|clock_12mhz'
+Slack : -0.820
+TNS   : -0.820
+
+Type  : Slow Model Recovery 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -0.455
+TNS   : -2.816
+
+Type  : Slow Model Removal 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow Model Removal 'ckong:ckong|clock_12mhz'
+Slack : 1.590
+TNS   : 0.000
+
+Type  : Slow Model Removal 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : 2.350
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|clock_12mhz'
+Slack : -1.423
+TNS   : -12953.384
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -1.423
+TNS   : -908.432
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -0.500
+TNS   : -236.000
+
+Type  : Slow Model Minimum Pulse Width 'clock_18'
+Slack : -0.500
+TNS   : -47.000
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|frequency_tick'
+Slack : -0.500
+TNS   : -12.000
+
+Type  : Slow Model Minimum Pulse Width 'wm_8731_dac:wm8731_dac|I2C_Clk'
+Slack : -0.500
+TNS   : -12.000
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|ps2_keyboard:kdb|debounce:debounce_ps2_clk|result'
+Slack : -0.500
+TNS   : -11.000
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|hdiv[1]'
+Slack : -0.500
+TNS   : -9.000
+
+Type  : Slow Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|YM2149:ym2149|env_reset'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clock_50'
+Slack : 10.000
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'pll36|altpll_component|pll|clk[0]'
+Slack : 12.888
+TNS   : 0.000
+
+Type  : Fast Model Setup 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -4.880
+TNS   : -1239.273
+
+Type  : Fast Model Setup 'ckong:ckong|clock_12mhz'
+Slack : -3.290
+TNS   : -20466.907
+
+Type  : Fast Model Setup 'clock_18'
+Slack : -3.026
+TNS   : -33.119
+
+Type  : Fast Model Setup 'pll36|altpll_component|pll|clk[0]'
+Slack : -2.941
+TNS   : -56.132
+
+Type  : Fast Model Setup 'ckong:ckong|ckong_sound:ckong_sound|frequency_tick'
+Slack : -2.782
+TNS   : -33.384
+
+Type  : Fast Model Setup 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -1.757
+TNS   : -240.104
+
+Type  : Fast Model Setup 'wm_8731_dac:wm8731_dac|I2C_Clk'
+Slack : -0.542
+TNS   : -2.807
+
+Type  : Fast Model Setup 'ckong:ckong|ckong_sound:ckong_sound|hdiv[1]'
+Slack : -0.198
+TNS   : -1.584
+
+Type  : Fast Model Setup 'ckong:ckong|ckong_sound:ckong_sound|YM2149:ym2149|env_reset'
+Slack : -0.166
+TNS   : -0.230
+
+Type  : Fast Model Setup 'ckong:ckong|ps2_keyboard:kdb|debounce:debounce_ps2_clk|result'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Fast Model Hold 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -1.480
+TNS   : -12.919
+
+Type  : Fast Model Hold 'clock_18'
+Slack : -1.306
+TNS   : -1.306
+
+Type  : Fast Model Hold 'ckong:ckong|ps2_keyboard:kdb|debounce:debounce_ps2_clk|result'
+Slack : -0.993
+TNS   : -0.993
+
+Type  : Fast Model Hold 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -0.929
+TNS   : -8.676
+
+Type  : Fast Model Hold 'pll36|altpll_component|pll|clk[0]'
+Slack : 0.014
+TNS   : 0.000
+
+Type  : Fast Model Hold 'ckong:ckong|clock_12mhz'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'wm_8731_dac:wm8731_dac|I2C_Clk'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'ckong:ckong|ckong_sound:ckong_sound|hdiv[1]'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Fast Model Hold 'ckong:ckong|ckong_sound:ckong_sound|frequency_tick'
+Slack : 0.325
+TNS   : 0.000
+
+Type  : Fast Model Hold 'ckong:ckong|ckong_sound:ckong_sound|YM2149:ym2149|env_reset'
+Slack : 0.700
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -0.565
+TNS   : -101.135
+
+Type  : Fast Model Recovery 'ckong:ckong|clock_12mhz'
+Slack : -0.246
+TNS   : -0.246
+
+Type  : Fast Model Recovery 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Fast Model Removal 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast Model Removal 'ckong:ckong|clock_12mhz'
+Slack : 1.126
+TNS   : 0.000
+
+Type  : Fast Model Removal 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : 1.445
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|clock_12mhz'
+Slack : -1.423
+TNS   : -12953.384
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|video_gen:video|cpu_clock'
+Slack : -1.423
+TNS   : -908.432
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|hdiv[0]'
+Slack : -0.500
+TNS   : -236.000
+
+Type  : Fast Model Minimum Pulse Width 'clock_18'
+Slack : -0.500
+TNS   : -47.000
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|frequency_tick'
+Slack : -0.500
+TNS   : -12.000
+
+Type  : Fast Model Minimum Pulse Width 'wm_8731_dac:wm8731_dac|I2C_Clk'
+Slack : -0.500
+TNS   : -12.000
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|ps2_keyboard:kdb|debounce:debounce_ps2_clk|result'
+Slack : -0.500
+TNS   : -11.000
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|hdiv[1]'
+Slack : -0.500
+TNS   : -9.000
+
+Type  : Fast Model Minimum Pulse Width 'ckong:ckong|ckong_sound:ckong_sound|YM2149:ym2149|env_reset'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clock_50'
+Slack : 10.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'pll36|altpll_component|pll|clk[0]'
+Slack : 12.888
+TNS   : 0.000
+
+------------------------------------------------------------

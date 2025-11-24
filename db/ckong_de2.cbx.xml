@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ckong_de2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ckong_de2|ckong:ckong|ckong_sound:ckong_sound|ckong_samples:sample_rom|altsyncram:rom_data_rtl_0" CBX_FILE_NAME="altsyncram_7m71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ckong_de2|ckong:ckong|ram_loader:ram_loader|ckong_big_sprite_tile_bit1:big_sprite_tile_bit1|altsyncram:rom_data_rtl_0" CBX_FILE_NAME="altsyncram_d191.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ckong_de2|ckong:ckong|ram_loader:ram_loader|ckong_program:program|altsyncram:rom_data_rtl_0" CBX_FILE_NAME="altsyncram_ei71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ckong_de2|ckong:ckong|ram_loader:ram_loader|ckong_tile_bit0:tile_bit0|altsyncram:rom_data_rtl_0" CBX_FILE_NAME="altsyncram_3s71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ckong_de2|ckong:ckong|ram_loader:ram_loader|ckong_tile_bit1:tile_bit1|altsyncram:rom_data_rtl_0" CBX_FILE_NAME="altsyncram_4s71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

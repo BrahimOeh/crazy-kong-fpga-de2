@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 19 05:37:24 2025
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : ckong_de2
+Top-level Entity Name : ckong_de2
+Family : Cyclone II
+Total logic elements : 22,272
+    Total combinational functions : 12,121
+    Dedicated logic registers : 10,852
+Total registers : 10852
+Total pins : 122
+Total virtual pins : 0
+Total memory bits : 409,600
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
